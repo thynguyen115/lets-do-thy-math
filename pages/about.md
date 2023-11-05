@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: Let's Do Thy Math!
 permalink: "/about/"
 image: assets/images/screenshot.png
 ---
@@ -12,8 +12,6 @@ The theme is compatible with Github pages. This demo is created with Github Page
 Everything is ready for your quick setup: Blog, Categories, About, Privacy Policy, Terms of Use, Contact form, Mailchimp
 
 [Get it here](https://bootstrapstarter.com/jekyll-theme-memoirs/) -->
-
-# Let's Do Thy Math!
 
 Hi there! Welcome to Let's Do Thy Math, your Math buddy online. This is a friendly spot to learn and have fun with all kinds of math. 
 
