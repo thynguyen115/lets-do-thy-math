@@ -6,7 +6,7 @@ Just customize your theme here.
 body {}
 
 .logo {
-    width: 10px; /* Width of the logo */
-    height: 10px; /* Height is set to auto to maintain aspect ratio */
+    width: 5px; /* Width of the logo */
+    height: 5px; /* Height is set to auto to maintain aspect ratio */
 }
   
