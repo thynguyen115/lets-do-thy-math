@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Let's Do Thy Math!
+title: About
 permalink: "/about/"
 image: assets/images/screenshot.png
 ---
