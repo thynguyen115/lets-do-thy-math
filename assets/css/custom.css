@@ -5,8 +5,10 @@ Just customize your theme here.
 
 body {}
 
-.logo {
-    width: 5px; /* Width of the logo */
-    height: 5px; /* Height is set to auto to maintain aspect ratio */
+/* Custom CSS to resize the logo */
+img.mr-2 {
+    width: 10px; /* Change this value to your desired width */
+    height: auto; /* This will maintain the aspect ratio of the image */
 }
+  
   
