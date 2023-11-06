@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: About Me
 permalink: "/about/"
 image: assets/images/screenshot.png
 ---
@@ -13,7 +13,12 @@ Everything is ready for your quick setup: Blog, Categories, About, Privacy Polic
 
 [Get it here](https://bootstrapstarter.com/jekyll-theme-memoirs/) -->
 
-Hi there! Welcome to Let's Do Thy Math, your Math buddy online. This is a friendly spot to learn and have fun with all kinds of math. 
+Greetings! I'm Thy, pronounced just like "lengthy", "healthy", or "wealthy". My math journey began at Hoang Le Kha High School for the Gifted in Vietnam. This passion led me to pursue dual degrees in Data Science and Mathematics-Computer Science at the University of California, San Diego (UCSD).
+
+For me, math isn't just about numbers and equations; it's a sanctuary, a place of solace away from life's harsh realities. It's this joy and passion that inspired me to launch "Let's Do Thy Math". On this platform, I'm eager to share my love for mathematics with you. So, come along and dive into the world of math with me!
+
+# About Let's Do Thy Math
+Welcome to Let's Do Thy Math, your Math buddy online. This is a friendly spot to learn and have fun with all kinds of math. 
 
 - Do you have questions about Algebra, like what x means in a puzzle? 
 - Or Geometry, which is like exploring the world of shapes and sizes? 
@@ -26,4 +31,6 @@ Hi there! Welcome to Let's Do Thy Math, your Math buddy online. This is a friend
 I'm here to help make math easy and exciting for you. If you're stuck on a homework problem or just want to learn something new, I've got your back. You can reach out to me by email or say hello on social media — I'd love to hear from you.
 
 Guess what? Your first 3 questions are totally free! It's like having a math helper just a click away. So, let's dive into the fun world of math together! 📚✏️🎉
+
+Please don't hesitate to contact me at letsdothymath@gmail.com or by using the "Contact" tab. Thank you, and looking forward to connecting with you all!
 
