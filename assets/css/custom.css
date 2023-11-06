@@ -4,3 +4,9 @@ Just customize your theme here.
 ================================================== */
 
 body {}
+
+.logo {
+    width: 150px; /* Width of the logo */
+    height: auto; /* Height is set to auto to maintain aspect ratio */
+}
+  
