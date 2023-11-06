@@ -3,12 +3,5 @@ Don't want to use sass and simply modify the stylesheet in the old css fashion?
 Just customize your theme here.
 ================================================== */
 
-body {}
-
-/* Custom CSS to resize the logo */
-img.mr-2 {
-    width: 10px; /* Change this value to your desired width */
-    height: auto; /* This will maintain the aspect ratio of the image */
-}
-  
+body {}  
   
