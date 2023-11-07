@@ -30,7 +30,7 @@ Welcome to Let's Do Thy Math, your Math buddy online. This is a friendly spot to
 
 I'm here to help make math easy and exciting for you. If you're stuck on a homework problem or just want to learn something new, I've got your back. You can reach out to me by email or say hello on social media — I'd love to hear from you.
 
-Guess what? Your first 3 questions are totally free! It's like having a math helper just a click away. So, let's dive into the fun world of math together! 📚✏️🎉
+Guess what? Your first 3 questions are totally free! It's like having a math helper just a click away. So, let's dive into the fun world of math together! 📚✏️💯🎉
 
 Please don't hesitate to contact me at letsdothymath@gmail.com or by using the "Contact" tab. Thank you, and looking forward to connecting with you all!
 
