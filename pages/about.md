@@ -15,7 +15,7 @@ Everything is ready for your quick setup: Blog, Categories, About, Privacy Polic
 
 Greetings! I'm Thy, pronounced just like "lengthy", "healthy", or "wealthy". My math journey began at Hoang Le Kha High School for the Gifted in Vietnam. This passion led me to pursue dual degrees in Data Science and Mathematics-Computer Science at the University of California, San Diego (UCSD).
 
-For me, math isn't just about numbers and equations; it's a sanctuary, a place of solace away from life's harsh realities. It's this joy and passion that inspired me to launch "Let's Do Thy Math". On this platform, I'm eager to share my love for mathematics with you. So, come along and dive into the world of math with me!
+For me, math isn't just about numbers and equations; it's a sanctuary, a place of solace away from life's harsh realities. It's this joy and passion that inspired me to launch "Let's Do Thy Math". On this platform, I'm eager to share my love for mathematics with you. So, come along and dive into the world of math with me! Or connect with me on [LinkedIn](https://www.linkedin.com/in/thynguyentc/)
 
 # About Let's Do Thy Math
 Welcome to Let's Do Thy Math, your Math buddy online. This is a friendly spot to learn and have fun with all kinds of math. 
